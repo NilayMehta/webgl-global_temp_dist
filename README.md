@@ -32,8 +32,8 @@ While creating functions to normalize the temperature, I used Scipy Stats, numpy
 
 Normalized data:
 
-![picture](https://lh3.googleusercontent.com/M_fMlCZsEIH4AoF8Bg1WZFNCcBcVTR6q4OvmH2wjNS4wyU20zGmLCbL3aPx_-K6KLqy3031WMN8XA6U=w2100-h1177)
+![picture](https://drive.google.com/file/d/0B0ahOQh9fKqPUzlRVTE2ZjhDaUU/view?usp=sharing)
 
 Exaggerated data:
 
-![picture](https://lh3.googleusercontent.com/rTJUVtt1VD9o1vOcd-YFHdONCmvYlkPIuR2BXkKgM9JyrI-km1J7MTM-2ETUR87T46oYkdXF1Fjscio=w2100-h1177)
+![picture](https://drive.google.com/file/d/0B0ahOQh9fKqPOHY3a24wb0R6bkE/view?usp=sharing)
