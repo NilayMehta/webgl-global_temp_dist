@@ -19,7 +19,7 @@ The dataset had over 22,000 lines and was over 93mb in size. Each line was sixte
         {"dt":1394949600,"temp":{"day":285.09,"min":276.88,"max":28509,"night":276.88,"eve":280.7,"morn":277.61},
         "pressure":707.85,"humidity":42,"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":
         "02d"}],"speed":0.4,"deg":194,"clouds":24},
-        <--(repeated_14_times_for_each_forecast)-->
+        <--(repeated_14_times_for_each_coordinate)-->
         ]
 }
 ```
