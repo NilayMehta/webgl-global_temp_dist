@@ -1,7 +1,7 @@
 
 # Global Temperature Distribution on WebGl Globe
 <img src="right.gif" align="right" />
-This project was created as a part of [Capital One's Geographic Data Visualization Contest](https://www.mindsumo.com/contests/global-data-visualization). The goal was to create a data visualization that used an api or global data set to show the data on the [WebGl Globe](https://www.chromeexperiments.com/globe). For my globe, I decided to display temperature values. The dataset I used can be downloaded from [here](http://bulk.openweathermap.org/sample/daily_14.json.gz). A live version of the project can be found [here](https://nilaymehta.github.io/projects/cc/tempdist.html).
+This project was created as a part of [Capital One's Geographic Data Visualization Contest](https://www.mindsumo.com/contests/global-data-visualization). The goal was to create a data visualization that used an api or global data set on the [WebGl Globe](https://www.chromeexperiments.com/globe). For my globe, I decided to display temperature values. The dataset I used can be downloaded from [here](http://bulk.openweathermap.org/sample/daily_14.json.gz). A live version of the project can be found [here](https://nilaymehta.github.io/projects/cc/tempdist.html).
 
 ## Filtering the Dataset
 
@@ -19,7 +19,7 @@ The dataset had over 22,000 lines and was over 93mb in size. Each line was sixte
         {"dt":1394949600,"temp":{"day":285.09,"min":276.88,"max":28509,"night":276.88,"eve":280.7,"morn":277.61},
         "pressure":707.85,"humidity":42,"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":
         "02d"}],"speed":0.4,"deg":194,"clouds":24},
-        <--(repeated_14_times_for_each_coordinate)-->
+        <--(repeated_an_additional_14_times_for_each_coordinate)-->
         ]
 }
 ```
